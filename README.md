@@ -1,8 +1,8 @@
-# Multiuser Vive
+# Unity3D Multiplayer VR Template
 
-Basic Unity project setup for multiplayer with HTC Vive. (Includes SteamVR v1.08)
+A barebones Multiplayer VR Template for Unity3D. (Includes SteamVR v1.08)
 
-Seperate scenes for Local network or Internet version.
+Seperate scenes for Local Network or Internet version.
 
 ## Local network version
 Both PCs need to be on same subnet to find each other.
